@@ -1,0 +1,19 @@
+*.sw*
+*~
+build/
+bin/
+dist/
+node_modules/
+/vendor
+*.sublime-workspace
+
+# Covers JetBrains IDEs
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+.env
